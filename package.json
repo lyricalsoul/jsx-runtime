@@ -1,0 +1,25 @@
+{
+  "name": "@lyricalsoul/jsx-runtime",
+  "version": "1.0.0",
+  "description": "A simple React JSX runtime for transforming JSX code into objects, which can be used with Satori",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyricalsoul/jsx-runtime.git"
+  },
+  "keywords": [
+    "jsx",
+    "satori",
+    "react",
+    "node.js"
+  ],
+  "author": "lyricalsoul <lyricalsoul@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyricalsoul/jsx-runtime/issues"
+  },
+  "homepage": "https://github.com/lyricalsoul/jsx-runtime#readme"
+}
