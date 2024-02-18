@@ -1,5 +1,5 @@
 {
-  "name": "satori-swc-jsx-runtime",
+  "name": "@lyricalsoul/jsx-runtime",
   "version": "1.0.1",
   "description": "A simple React JSX runtime for transforming JSX code into objects, which can be used with Satori",
   "main": "jsx-runtime.js",
